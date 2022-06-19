@@ -1,7 +1,22 @@
-# A Minimized Win32 Boilerplate Showing a Window
+# Extremely lightweight ssh-askpass.exe and pinentry.exe for windows and WSL
 
-It is compiled into a tiny (2KB) x64 `.exe` file
+## Features
 
-- No dependence of any CRT (compiling in release mode)
-- Sections are merged
-- Linked with minimized DOS Stub
+- Native
+- Tiny
+- Quick launching
+- Low latency
+
+## Usage
+
+### For `sudo` (in WSL) and `ssh`
+
+- *TBD*
+
+### For `gnupg`
+
+- *TBD*
+
+## See also
+
+- [WSL Open](https://github.com/jagd/wslopen): `xdg-open` and mailcap `open` for WSL
